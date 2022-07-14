@@ -20,6 +20,9 @@ Shell scripts contained in this repository were used to obtain data used to
 produce figures from [1]. In the said paper you can find more details as
 well as analytical approximations for the simulation results.
 
+**Note:** Model itself was implemented in C, to properly run it you will
+have first to `make` (compile) it. Makefile is in the `crun` directory.
+
 ## References
 
 1. (to be added later)
