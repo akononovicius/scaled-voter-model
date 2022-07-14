@@ -1,0 +1,3 @@
+[submodule "python-stats"]
+	path = stats
+	url = https://github.com/akononovicius/python-stats
