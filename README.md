@@ -25,4 +25,8 @@ have first to `make` (compile) it. Makefile is in the `crun` directory.
 
 ## References
 
-1. (to be added later)
+1. R. Kazakevičius, A. Kononovicius. *Anomalous diffusion and long-range
+   memory in the scaled voter model*. Physical Review E **107**: 024106
+   (2023). [doi:
+   10.1103/PhysRevE.107.024106](https://doi.org/10.1103/PhysRevE.107.024106).
+   [arXiv:2301.08088 [cond-mat.stat-mech]](https://arxiv.org/abs/2301.08088).
